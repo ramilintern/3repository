@@ -1,0 +1,6 @@
+C:\Users\Aroma\source\repos\04BasicSharp\Static\bin\Debug\Static.exe.config
+C:\Users\Aroma\source\repos\04BasicSharp\Static\bin\Debug\Static.exe
+C:\Users\Aroma\source\repos\04BasicSharp\Static\bin\Debug\Static.pdb
+C:\Users\Aroma\source\repos\04BasicSharp\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Aroma\source\repos\04BasicSharp\Static\obj\Debug\Static.exe
+C:\Users\Aroma\source\repos\04BasicSharp\Static\obj\Debug\Static.pdb
