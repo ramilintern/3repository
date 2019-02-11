@@ -1,7 +1,0 @@
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\bin\Debug\04BasicSharp.exe.config
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\bin\Debug\04BasicSharp.exe
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\bin\Debug\04BasicSharp.pdb
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\obj\Debug\04BasicSharp.csprojResolveAssemblyReference.cache
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\obj\Debug\04BasicSharp.csproj.CoreCompileInputs.cache
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\obj\Debug\04BasicSharp.exe
-C:\Users\Aroma\source\repos\04BasicSharp\04BasicSharp\obj\Debug\04BasicSharp.pdb

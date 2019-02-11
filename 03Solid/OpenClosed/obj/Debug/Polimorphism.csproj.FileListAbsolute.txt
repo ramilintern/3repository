@@ -1,7 +1,0 @@
-C:\Users\Aroma\source\repos\Solid\Polimorphism\bin\Debug\Polimorphism.exe.config
-C:\Users\Aroma\source\repos\Solid\Polimorphism\bin\Debug\Polimorphism.exe
-C:\Users\Aroma\source\repos\Solid\Polimorphism\bin\Debug\Polimorphism.pdb
-C:\Users\Aroma\source\repos\Solid\Polimorphism\obj\Debug\Polimorphism.csproj.CoreCompileInputs.cache
-C:\Users\Aroma\source\repos\Solid\Polimorphism\obj\Debug\Polimorphism.exe
-C:\Users\Aroma\source\repos\Solid\Polimorphism\obj\Debug\Polimorphism.pdb
-C:\Users\Aroma\source\repos\Solid\Polimorphism\obj\Debug\Polimorphism.csprojResolveAssemblyReference.cache
